@@ -1,3 +1,15 @@
+完成的功能：
+
+
+1.加减乘除、取余、次幂计算
+
+2.多位数运算
+
+3.小数运算
+
+4.解决第一个数为负数、-（xx）、--（xx）、+（-xx）等特殊情况判断
+
+
 文件路径：
 
 ![1](https://user-images.githubusercontent.com/91370128/199647183-e218b4a0-5f64-4446-b2f8-5a452b54a624.jpg)
@@ -20,4 +32,4 @@ SqStack：顺序栈的建立
 流程图：
 
 ![2](https://user-images.githubusercontent.com/91370128/199647187-babe638b-9d89-459e-9ffe-800fc609af46.jpg)
-![3](https://user-images.githubusercontent.com/91370128/199647190-198ee34c-73a0-448f-8747-89f026b6dbb0.jpg)
+![1 drawio](https://user-images.githubusercontent.com/91370128/200475932-550a6b11-db33-43cc-9f5e-b3531b3ad77a.png)
